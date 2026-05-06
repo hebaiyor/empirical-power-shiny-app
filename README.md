@@ -55,10 +55,13 @@ This application is useful for:
 
 ## 📷 App Preview
 
-### Example Output - Empirical Power for Two-Sample Test
-![Power of Two Sample Test](TwoSamplePower.png)
+### App Overview
+![Dashboard](AppOverview.png)
 
-### Example Output - Sample Size for Paired T-Test
-![Sample Size of Paired T-Test](PairedTestSampleSize.png)
+### Effect of Sample Size
+![Sample Size Effect on Power](SmalltoLargeSamplePower.png)
+
+### Example Output
+![Output](AppOutputExample.png)
 
 
