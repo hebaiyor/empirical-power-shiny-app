@@ -51,3 +51,13 @@ This application is useful for:
 5. Run the app:
    
         shiny::runApp()
+
+## 📷 App Preview
+
+### Example Output - Empirical Power for Two-Sample Test
+![Power Plot](images/TwoSamplePower.png)
+
+### Example Output - Sample Size for Paired T-Test
+![Dashboard](images/PairedTestSampleSize.png)
+
+
