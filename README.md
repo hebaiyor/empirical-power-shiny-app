@@ -1,5 +1,8 @@
 # Empirical Power Analysis Dashboard (R Shiny)
 
+## Summary  
+Interactive R Shiny application that uses simulation-based methods to estimate statistical power and required sample sizes for t-tests, supporting study design and decision-making in healthcare and public health research.
+
 ## Overview  
 This project is an interactive R Shiny application that simulates and evaluates the empirical power of t-tests across different study design scenarios. It allows users to explore how sample size, effect size, variability, and significance level influence the likelihood of detecting meaningful effects.
 
