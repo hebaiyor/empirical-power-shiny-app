@@ -53,15 +53,17 @@ This application is useful for:
    
         shiny::runApp()
 
-## 📷 App Preview
 
-### App Overview
+### 📷 App Overview
+Overview of App
 ![Dashboard](AppOverview.png)
 
-### Effect of Sample Size
+### 📊 Effect of Sample Size
+Displays how a change in sample size (n=25 to n=100) impacts the power of the test
 ![Sample Size Effect on Power](SmalltoLargeSamplePower.png)
 
-### Example Output
+### 📈 Example Output
+Example of output text and plot that can be generated with the app
 ![Output](AppOutputExample.png)
 
 
