@@ -55,9 +55,9 @@ This application is useful for:
 ## 📷 App Preview
 
 ### Example Output - Empirical Power for Two-Sample Test
-![Power Plot](images/TwoSamplePower.png)
+![Power of Two Sample Test](TwoSamplePower.png)
 
 ### Example Output - Sample Size for Paired T-Test
-![Dashboard](images/PairedTestSampleSize.png)
+![Sample Size of Paired T-Test](PairedTestSampleSize.png)
 
 
