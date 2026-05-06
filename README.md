@@ -46,6 +46,6 @@ This application is useful for:
 1. Clone this repository
 2. Open app.R in RStudio
 3. Install required package if needed:
-  install.packages("shiny")
-4. Run the app:
-  shiny::runApp()
+        install.packages("shiny")
+5. Run the app:
+        shiny::runApp()
