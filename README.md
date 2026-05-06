@@ -19,6 +19,7 @@ Interactive outputs for exploring how assumptions affect results, including poli
 
 
 **Methods**
+
 Simulation-based approach using repeated sampling (Monte Carlo simulation)
 Iterative power estimation across 100 simulated datasets per scenario
 Statistical testing using t-test frameworks
@@ -26,6 +27,7 @@ Dynamic user input-driven modeling via Shiny
 Customizable output options
 
 **Tools & Technologies**
+
 R
 Shiny
 Statistical simulation
@@ -40,6 +42,7 @@ This application is useful for:
   Teaching core statistical concepts interactively
 
 **How to Run**
+
 1. Clone this repository
 2. Open app.R in RStudio
 3. Install required package if needed:
