@@ -17,6 +17,7 @@ By translating statistical theory into an interactive simulation tool, this proj
     - Alternative hypothesis type
 - Interactive outputs for exploring how assumptions affect results, including polished visualizations
 
+This tool demonstrates how simulation-based methods can support study design decisions in healthcare and public health research.
 
 **Methods**
 
