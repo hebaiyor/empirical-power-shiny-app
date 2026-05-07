@@ -1,4 +1,6 @@
 # Empirical Power Analysis Dashboard (R Shiny)
+![R](https://img.shields.io/badge/R-Programming-276DC3?logo=r&logoColor=white)
+![Public Health](https://img.shields.io/badge/Public%20Health-Biostatistics-green)
 
 ## Summary  
 Interactive R Shiny application that uses simulation-based methods to estimate statistical power and required sample sizes for t-tests, supporting study design and decision-making in healthcare and public health research.
